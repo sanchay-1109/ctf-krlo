@@ -1,0 +1,62 @@
+#parent{
+    position: relative;
+    
+}
+.H{
+    position: absolute;
+    z-index: 6;
+    width: 1500px;
+    height: 1000px;
+    display: flex;
+    text-align: center;
+}
+.E{
+    position: absolute;
+    z-index: 5;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    text-align: center;
+    top: 100px;
+    left: 500px;
+}
+.D{
+    position: absolute;
+    z-index:4;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    text-align: center;
+    top: 100px;
+    left: 500px;
+}
+.W{
+    position: absolute;
+    z-index:3;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    text-align: center;
+    top: 100px;
+    left: 500px;
+}
+.I{
+    position: absolute;
+    z-index: 2;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    text-align: center;
+    top: 100px;
+    left: 500px;
+}
+.G{
+    position: absolute;
+    z-index: 1;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    text-align: center;
+    top: 100px;
+    left: 500px;
+}
