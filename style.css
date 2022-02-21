@@ -2,15 +2,8 @@
     position: relative;
     
 }
-.H{
-    position: absolute;
-    z-index: 6;
-    width: 1500px;
-    height: 1000px;
-    display: flex;
-    text-align: center;
-}
-.E{
+
+.hulala{
     position: absolute;
     z-index: 5;
     width: 500px;
@@ -18,9 +11,9 @@
     display: flex;
     text-align: center;
     top: 100px;
-    left: 600px;
+    left: 500px;
 }
-.D{
+.ok{
     position: absolute;
     z-index:4;
     width: 400px;
@@ -28,29 +21,9 @@
     display: flex;
     text-align: center;
     top: 100px;
-    left: 700px;
+    left: 500px;
 }
-.W{
-    position: absolute;
-    z-index:3;
-    width: 300px;
-    height: 300px;
-    display: flex;
-    text-align: center;
-    top: 100px;
-    left: 800px;
-}
-.I{
-    position: absolute;
-    z-index: 2;
-    width: 200px;
-    height: 200px;
-    display: flex;
-    text-align: center;
-    top: 100px;
-    left: 900px;
-}
-.G{
+.kuchnahiMilega{
     position: absolute;
     z-index: 1;
     width: 100px;
@@ -58,5 +31,43 @@
     display: flex;
     text-align: center;
     top: 100px;
-    left: 1000px;
+    left: 500px;
+}
+.burrrah{
+    position: absolute;
+    z-index:3;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    text-align: center;
+    top: 100px;
+    left: 500px;
+}
+.hulala{
+    position: absolute;
+    z-index: 5;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    text-align: center;
+    top: 100px;
+    left: 500px;
+}
+.chalna{
+    position: absolute;
+    z-index: 2;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    text-align: center;
+    top: 100px;
+    left: 500px;
+}
+.image100{
+    position: absolute;
+    z-index: 6;
+    width: 1500px;
+    height: 1000px;
+    display: flex;
+    text-align: center;
 }
